@@ -1,0 +1,31 @@
+/* Logo Style */
+.logo {
+    font-family: 'Times New Roman', serif;
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
+
+/* Hero Section */
+.hero {
+    height: 80vh;
+    background-image: url('img/background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Collections Section */
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    color: #555;
+}
+
+/* About Section */
+#about p {
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
